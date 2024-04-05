@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(66, 66, 66);
+}
+.pai{
+    margin-left: 40%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    background: blue;
+    height: 350px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.ponta{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.bt{
+    background: orange;
+    border-radius: 10px;
+    height: 40px;
+    width: 90px;
+}
